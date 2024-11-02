@@ -21,7 +21,7 @@ Dynamic Header Messages: Displays unique motivational phrases each time the inje
 
 How to Use?
 
-1)On the first run, the injector will create a folder structure in your AppData/Roaming directory under LuckyV2. Each supported game will have its own subfolder.
+1)First run with ADM, the injector will create a folder structure in your AppData/Roaming directory under LuckyV2. Each supported game will have its own subfolder.
 
 2)Place the DLLs in the appropriate subfolder (e.g., AppData\Roaming\LuckyV2\CS2).
 
